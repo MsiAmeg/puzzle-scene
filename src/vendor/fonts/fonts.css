@@ -1,0 +1,22 @@
+@font-face {
+  src: 
+    url(./Nunito-Light.woff2) format('woff2'),
+    url(./Nunito-Light.ttf) format('ttf');
+  font-family: 'Nunito';
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./Nunito-Regular.woff2) format('woff2');
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./Nunito-SemiBold.woff2) format('woff2');
+  font-family: 'Nunito';
+  font-weight: 600;
+  font-display: swap;
+}
